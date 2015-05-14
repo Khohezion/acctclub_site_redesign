@@ -1,1 +1,20 @@
 INITIAL IDEAS:
+
+Acronyms: 
+IS: Director of Information Systems
+HR: Director of Human Resources
+
+General Goals:
+1. Make it so members use the website more
+  - Members dont use the damn website, we need to have more traffic on the website
+2. Perhaps interchange the roles that HR and IS have? (Eric's idea)
+  - Make it so the IS handles the input of data for events and HR can deal with the Ledger
+    - Reasoning: Data is information... Ledger deals with communicating with the members
+    - This also gives IS a bigger role in the club allowing it so they can communicate and help the other board members.
+  
+Languages
+1. PHP
+2. Javascript
+3. SQL
+4. HTML
+5. CSS
